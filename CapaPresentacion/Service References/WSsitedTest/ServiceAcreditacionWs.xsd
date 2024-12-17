@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xsd:schema xmlns:ibmSchExtn="http://www.ibm.com/schema/extensions" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/" xmlns:sus="http://www.susalud.gob.pe/ServiceAcreditacion/" targetNamespace="http://www.susalud.gob.pe/ServiceAcreditacion/" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <xsd:element ibmSchExtn:docRoot="true" name="busquedaDatosAsegurado">
+    <xsd:complexType>
+      <xsd:sequence>
+        <xsd:element name="txNombre" type="xsd:string" />
+        <xsd:element name="coRemitente" type="xsd:string" />
+        <xsd:element name="txPeticion" type="xsd:string" />
+      </xsd:sequence>
+    </xsd:complexType>
+  </xsd:element>
+  <xsd:element ibmSchExtn:docRoot="true" name="busquedaDatosAseguradoResponse">
+    <xsd:complexType>
+      <xsd:sequence>
+        <xsd:element name="coError" type="xsd:string" />
+        <xsd:element name="txNombre" type="xsd:string" />
+        <xsd:element name="coRemitente" type="xsd:string" />
+        <xsd:element name="txRespuesta" type="xsd:string" />
+      </xsd:sequence>
+    </xsd:complexType>
+  </xsd:element>
+</xsd:schema>

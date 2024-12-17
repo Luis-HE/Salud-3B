@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap >
+     <siteMapNode url="" title=""  description="">
+      <siteMapNode title="MENÚ" />
+
+       <siteMapNode title="Admisión"> 
+        <siteMapNode title="Citas" url="~/Forms/frmCitaPacientes.aspx"/>
+         <siteMapNode title="Admisión" url="~/Forms/frmAdmision.aspx"/>
+         <siteMapNode title="Caja" url="~/Forms/frmCaja.aspx"/>       
+         <siteMapNode title="Programaciones" url="~/Forms/frmProgramacionTurnos.aspx"/>
+         <siteMapNode title="Administrar Pacientes" url="~/Forms/frmPaciente.aspx"/>
+          <siteMapNode title="Reporte Citas" url="~/Forms/frmReporteCitas.aspx"/>
+         <siteMapNode title="Reporte Admisión" url="~/Forms/frmReporteAdmision.aspx"/>
+         <siteMapNode title="Reporte de Ventas" url="~/Forms/frmReporteVentas.aspx"/>
+         
+
+       </siteMapNode>
+
+       <siteMapNode title="Atención Ambulatoria">
+         <siteMapNode title="Triaje" url="~/Forms/frmTriaje.aspx"/>
+         <siteMapNode title="Consulta Externa" url="~/Forms/frmConsultorio.aspx"/>
+         <siteMapNode title="Ginecologia y Obstetricia" url="~/Forms/frmGinecoObstetricia.aspx"/>
+         <siteMapNode title="Otras Especialidades" url="~/Forms/frmEspecialidades.aspx"/>
+         <siteMapNode title="Reporte de Triaje" url="~/Forms/frmReporteTriaje.aspx"/>
+         <!--<siteMapNode title="Hoja de Riesgo Quirurgico" url="~/Forms/frmHojaRiesgoQuirurgico.aspx"/>-->
+       </siteMapNode>
+
+       <siteMapNode title="Apoyo al Diagnóstico">
+       <siteMapNode title="Laboratorio">
+           <siteMapNode title="Toma de Muestras" url="~/Forms/frmTomaMuestras.aspx" />
+         </siteMapNode>         
+       </siteMapNode>
+
+       <siteMapNode title="Emergencia">
+         <siteMapNode title="Tópico de Emergencia" url="~/Forms/frmTopico.aspx"/>
+         <siteMapNode title="Libro de Emergencias" url="~/Forms/frmLibroEmergencias.aspx"/>
+         <!--<siteMapNode title="Observación de Pacientes" url=""/>
+         <siteMapNode title="Shock Trauma" url=""/>-->
+       </siteMapNode>
+       
+        <!--<siteMapNode title="Hospitalización">
+          <siteMapNode title="Ingresos" url="~/Forms/frmHospitalizacion.aspx"/>   
+          <siteMapNode title="Hospitalizados" url="~/Forms/frmLista_Hospitalizacion.aspx"/>
+      </siteMapNode>-->
+
+       <siteMapNode title="Farmacia">
+          <siteMapNode title="Ingreso de Mercaderia" url="~/Forms/frmIngresoMaterial.aspx"/>
+          <siteMapNode title="Despacho" url="~/Forms/frmDespachoFarmacia.aspx"/>
+           <siteMapNode title="Inventario" url="~/Forms/frmKardex.aspx"/>
+       </siteMapNode>
+
+       <siteMapNode title="Administración">
+         <siteMapNode title="Tarifario" url="~/Forms/frmTarifario.aspx"/>
+         <siteMapNode title="Producción de Médicos" url="~/Forms/frmReporteProduccionMedicos.aspx"/>
+         <!--<siteMapNode title="Convenios" url="~/Forms/frmConvenios.aspx"/>        
+         <siteMapNode title="Liquidaciones" url=""/>--> 
+       </siteMapNode>
+       
+       <siteMapNode title="Reportes Gerenciales">
+         
+         <siteMapNode title="Reporte de Producción" url="~/Forms/frmReporteProduccion.aspx"/>
+       </siteMapNode>
+
+       <siteMapNode title="Configuración del Sistema">
+         <!--<siteMapNode title="Parámetros de Artículo" url="~/Forms/frmParametrosArtProd.aspx"/>
+         <siteMapNode title="Parámetros de Compra y Venta" url="~/Forms/frmParametrosCompraVenta.aspx"/>-->
+         <siteMapNode title="Parámetros de Acceso" url="~/Forms/frmParametrosAcceso.aspx"/>
+       </siteMapNode>
+       
+     </siteMapNode>
+ </siteMap>

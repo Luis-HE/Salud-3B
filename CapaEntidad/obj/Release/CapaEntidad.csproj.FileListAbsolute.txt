@@ -1,0 +1,15 @@
+D:\ERPs EGESTORES SAC\HEALTHCARE\3B\CapaEntidad\bin\Release\CapaEntidad.dll
+D:\ERPs EGESTORES SAC\HEALTHCARE\3B\CapaEntidad\bin\Release\CapaEntidad.pdb
+D:\ERPs EGESTORES SAC\HEALTHCARE\3B\CapaEntidad\obj\Release\CapaEntidad.csprojResolveAssemblyReference.cache
+D:\ERPs EGESTORES SAC\HEALTHCARE\3B\CapaEntidad\obj\Release\CapaEntidad.dll
+D:\ERPs EGESTORES SAC\HEALTHCARE\3B\CapaEntidad\obj\Release\CapaEntidad.pdb
+D:\ERPs EGESTORES SAC\CLINICA_UNIVERSITARIA\3B\CapaEntidad\bin\Release\CapaEntidad.dll
+D:\ERPs EGESTORES SAC\CLINICA_UNIVERSITARIA\3B\CapaEntidad\bin\Release\CapaEntidad.pdb
+D:\ERPs EGESTORES SAC\CLINICA_UNIVERSITARIA\3B\CapaEntidad\obj\Release\CapaEntidad.csprojResolveAssemblyReference.cache
+D:\ERPs EGESTORES SAC\CLINICA_UNIVERSITARIA\3B\CapaEntidad\obj\Release\CapaEntidad.dll
+D:\ERPs EGESTORES SAC\CLINICA_UNIVERSITARIA\3B\CapaEntidad\obj\Release\CapaEntidad.pdb
+D:\ERPs EGESTORES SAC\NIVEL_I\3B\CapaEntidad\bin\Release\CapaEntidad.dll
+D:\ERPs EGESTORES SAC\NIVEL_I\3B\CapaEntidad\bin\Release\CapaEntidad.pdb
+D:\ERPs EGESTORES SAC\NIVEL_I\3B\CapaEntidad\obj\Release\CapaEntidad.csprojResolveAssemblyReference.cache
+D:\ERPs EGESTORES SAC\NIVEL_I\3B\CapaEntidad\obj\Release\CapaEntidad.dll
+D:\ERPs EGESTORES SAC\NIVEL_I\3B\CapaEntidad\obj\Release\CapaEntidad.pdb

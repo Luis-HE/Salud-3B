@@ -1,0 +1,27 @@
+﻿.modalBackground
+    {
+        background-color: Black;
+        filter: alpha(opacity=60);
+        opacity: 0.6;
+    }
+    .modalPopup
+    {
+        background-color:white;
+        width: 1060px;
+        height:600px;
+        border: 2px solid #CC7800;
+        border-radius: 12px;
+        margin-left:135px;
+        margin-top:0;    
+    }
+    .modalPopupHeader
+    {
+        background-color:#CC7800;
+        height: 30px;
+        color:#ffffff;
+        line-height: 30px;
+        text-align: center;
+        font-weight: bold;
+        border-top-left-radius: 6px;
+        border-top-right-radius: 6px;
+    }

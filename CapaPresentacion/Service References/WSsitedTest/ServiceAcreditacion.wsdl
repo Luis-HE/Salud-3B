@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:sus="http://www.susalud.gob.pe/ServiceAcreditacion/" name="ServiceAcreditacion" targetNamespace="http://www.susalud.gob.pe/ServiceAcreditacion/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:documentation>
+    <wsdl:appinfo source="WMQI_APPINFO">
+      <MRWSDLAppInfo imported="true">
+        <generatedXSD location="ServiceAcreditacion_InlineSchema1.xsd" />
+        <binding hasEncoding="false" imported="true" name="ServiceAcreditacionSOAP" originalBindingStyle="document" />
+      </MRWSDLAppInfo>
+    </wsdl:appinfo>
+  </wsdl:documentation>
+  <wsdl:types>
+    <xsd:schema targetNamespace="http://www.susalud.gob.pe/ServiceAcreditacion/">
+      <xsd:include schemaLocation="http://app26.susalud.gob.pe:27801/path/to/ServiceAcreditacionWs?xsd=xsd0" />
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="busquedaDatosAseguradoRequest">
+    <wsdl:part name="parameters" element="sus:busquedaDatosAsegurado" />
+  </wsdl:message>
+  <wsdl:message name="busquedaDatosAseguradoResponse">
+    <wsdl:part name="parameters" element="sus:busquedaDatosAseguradoResponse" />
+  </wsdl:message>
+  <wsdl:portType name="ServiceAcreditacion">
+    <wsdl:operation name="busquedaDatosAsegurado">
+      <wsdl:input message="sus:busquedaDatosAseguradoRequest" />
+      <wsdl:output message="sus:busquedaDatosAseguradoResponse" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="ServiceAcreditacionSOAP" type="sus:ServiceAcreditacion">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="busquedaDatosAsegurado">
+      <soap:operation soapAction="http://www.susalud.gob.pe/ServiceAcreditacion/busquedaDatosAsegurado" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="ServiceAcreditacion">
+    <wsdl:port name="ServiceAcreditacionSOAP" binding="sus:ServiceAcreditacionSOAP">
+      <soap:address location="http://app26.susalud.gob.pe:27801/path/to/ServiceAcreditacionWs" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

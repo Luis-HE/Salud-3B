@@ -1,0 +1,12 @@
+﻿.table {
+  border: 1px solid #8995a0;
+  width:100%;
+}
+
+/*.table th {
+  background-color: #e1e7ee;
+}*/
+.table tr td{
+     border: 1px solid #8995a0;
+}
+

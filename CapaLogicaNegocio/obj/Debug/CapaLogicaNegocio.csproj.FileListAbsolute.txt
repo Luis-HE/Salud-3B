@@ -1,0 +1,56 @@
+D:\ERPs E-GETION\3B\CapaLogicaNegocio\bin\Debug\CapaLogicaNegocio.dll
+D:\ERPs E-GETION\3B\CapaLogicaNegocio\bin\Debug\CapaLogicaNegocio.pdb
+D:\ERPs E-GETION\3B\CapaLogicaNegocio\bin\Debug\CapaDatos.dll
+D:\ERPs E-GETION\3B\CapaLogicaNegocio\bin\Debug\CapaEntidad.dll
+D:\ERPs E-GETION\3B\CapaLogicaNegocio\bin\Debug\CapaDatos.pdb
+D:\ERPs E-GETION\3B\CapaLogicaNegocio\bin\Debug\CapaEntidad.pdb
+D:\ERPs E-GETION\3B\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.csprojResolveAssemblyReference.cache
+D:\ERPs E-GETION\3B\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.dll
+D:\ERPs E-GETION\3B\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.pdb
+D:\ERPs E-GETION\HEALTHCARE\3B\CapaLogicaNegocio\bin\Debug\CapaLogicaNegocio.dll
+D:\ERPs E-GETION\HEALTHCARE\3B\CapaLogicaNegocio\bin\Debug\CapaLogicaNegocio.pdb
+D:\ERPs E-GETION\HEALTHCARE\3B\CapaLogicaNegocio\bin\Debug\CapaDatos.dll
+D:\ERPs E-GETION\HEALTHCARE\3B\CapaLogicaNegocio\bin\Debug\CapaEntidad.dll
+D:\ERPs E-GETION\HEALTHCARE\3B\CapaLogicaNegocio\bin\Debug\CapaDatos.pdb
+D:\ERPs E-GETION\HEALTHCARE\3B\CapaLogicaNegocio\bin\Debug\CapaEntidad.pdb
+D:\ERPs E-GETION\HEALTHCARE\3B\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.csprojResolveAssemblyReference.cache
+D:\ERPs E-GETION\HEALTHCARE\3B\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.dll
+D:\ERPs E-GETION\HEALTHCARE\3B\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.pdb
+D:\ERPs EGESTORES SAC\HEALTHCARE\3B\CapaLogicaNegocio\bin\Debug\CapaLogicaNegocio.dll
+D:\ERPs EGESTORES SAC\HEALTHCARE\3B\CapaLogicaNegocio\bin\Debug\CapaLogicaNegocio.pdb
+D:\ERPs EGESTORES SAC\HEALTHCARE\3B\CapaLogicaNegocio\bin\Debug\CapaDatos.dll
+D:\ERPs EGESTORES SAC\HEALTHCARE\3B\CapaLogicaNegocio\bin\Debug\CapaEntidad.dll
+D:\ERPs EGESTORES SAC\HEALTHCARE\3B\CapaLogicaNegocio\bin\Debug\CapaDatos.pdb
+D:\ERPs EGESTORES SAC\HEALTHCARE\3B\CapaLogicaNegocio\bin\Debug\CapaEntidad.pdb
+D:\ERPs EGESTORES SAC\HEALTHCARE\3B\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.csprojResolveAssemblyReference.cache
+D:\ERPs EGESTORES SAC\HEALTHCARE\3B\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.dll
+D:\ERPs EGESTORES SAC\HEALTHCARE\3B\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.pdb
+D:\ERPs EGESTORES SAC\CLINICA_UNIVERSITARIA\3B\CapaLogicaNegocio\bin\Debug\CapaLogicaNegocio.dll
+D:\ERPs EGESTORES SAC\CLINICA_UNIVERSITARIA\3B\CapaLogicaNegocio\bin\Debug\CapaLogicaNegocio.pdb
+D:\ERPs EGESTORES SAC\CLINICA_UNIVERSITARIA\3B\CapaLogicaNegocio\bin\Debug\CapaDatos.dll
+D:\ERPs EGESTORES SAC\CLINICA_UNIVERSITARIA\3B\CapaLogicaNegocio\bin\Debug\CapaEntidad.dll
+D:\ERPs EGESTORES SAC\CLINICA_UNIVERSITARIA\3B\CapaLogicaNegocio\bin\Debug\CapaDatos.pdb
+D:\ERPs EGESTORES SAC\CLINICA_UNIVERSITARIA\3B\CapaLogicaNegocio\bin\Debug\CapaEntidad.pdb
+D:\ERPs EGESTORES SAC\CLINICA_UNIVERSITARIA\3B\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.csprojResolveAssemblyReference.cache
+D:\ERPs EGESTORES SAC\CLINICA_UNIVERSITARIA\3B\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.dll
+D:\ERPs EGESTORES SAC\CLINICA_UNIVERSITARIA\3B\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.pdb
+D:\ERPs EGESTORES SAC\NIVEL_I\3B\CapaLogicaNegocio\bin\Debug\CapaLogicaNegocio.dll
+D:\ERPs EGESTORES SAC\NIVEL_I\3B\CapaLogicaNegocio\bin\Debug\CapaLogicaNegocio.pdb
+D:\ERPs EGESTORES SAC\NIVEL_I\3B\CapaLogicaNegocio\bin\Debug\CapaDatos.dll
+D:\ERPs EGESTORES SAC\NIVEL_I\3B\CapaLogicaNegocio\bin\Debug\CapaEntidad.dll
+D:\ERPs EGESTORES SAC\NIVEL_I\3B\CapaLogicaNegocio\bin\Debug\CapaDatos.pdb
+D:\ERPs EGESTORES SAC\NIVEL_I\3B\CapaLogicaNegocio\bin\Debug\CapaEntidad.pdb
+D:\ERPs EGESTORES SAC\NIVEL_I\3B\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.csprojResolveAssemblyReference.cache
+D:\ERPs EGESTORES SAC\NIVEL_I\3B\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.dll
+D:\ERPs EGESTORES SAC\NIVEL_I\3B\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.pdb
+C:\Users\Leon\Downloads\3B\CapaLogicaNegocio\bin\Debug\CapaLogicaNegocio.dll
+C:\Users\Leon\Downloads\3B\CapaLogicaNegocio\bin\Debug\CapaLogicaNegocio.pdb
+C:\Users\Leon\Downloads\3B\CapaLogicaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\Leon\Downloads\3B\CapaLogicaNegocio\bin\Debug\CapaEntidad.dll
+C:\Users\Leon\Downloads\3B\CapaLogicaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\Leon\Downloads\3B\CapaLogicaNegocio\bin\Debug\CapaEntidad.pdb
+C:\Users\Leon\Downloads\3B\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.csproj.AssemblyReference.cache
+C:\Users\Leon\Downloads\3B\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Leon\Downloads\3B\CapaLogicaNegocio\obj\Debug\CapaLogi.BF2FE080.Up2Date
+C:\Users\Leon\Downloads\3B\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.dll
+C:\Users\Leon\Downloads\3B\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.pdb

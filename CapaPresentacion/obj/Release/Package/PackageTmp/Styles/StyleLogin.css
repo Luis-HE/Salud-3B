@@ -1,0 +1,8 @@
+﻿.BackgroundLogin{
+    width:333px;
+	height:280px;
+	padding: 58px 76px 0 76px;
+	color: #1F497D;
+    /*border-radius:20px 20px;*/
+    background: url(../Images/BackgroundLogin.png) no-repeat 0 100%;
+}

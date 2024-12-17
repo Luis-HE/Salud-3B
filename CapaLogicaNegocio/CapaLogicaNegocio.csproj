@@ -1,0 +1,157 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{0AA7852D-6F3C-418F-9FC9-617F5BC6C8B7}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>CapaLogicaNegocio</RootNamespace>
+    <AssemblyName>CapaLogicaNegocio</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="LogicaAcompanante.cs" />
+    <Compile Include="LogicaAdmision.cs" />
+    <Compile Include="LogicaAlmacen.cs" />
+    <Compile Include="LogicaAnulaDocumentos.cs" />
+    <Compile Include="LogicaArea.cs" />
+    <Compile Include="LogicaAsientoContable.cs" />
+    <Compile Include="LogicaBuscaHistoriaClinica.cs" />
+    <Compile Include="LogicaCabeceraSUNAT.cs" />
+    <Compile Include="LogicaCama.cs" />
+    <Compile Include="LogicaCatalogo.cs" />
+    <Compile Include="LogicaCatalogoCiediez.cs" />
+    <Compile Include="LogicaCategoria.cs" />
+    <Compile Include="LogicaCita.cs" />
+    <Compile Include="LogicaClienteEmpresa.cs" />
+    <Compile Include="LogicaClientePersona.cs" />
+    <Compile Include="LogicaClienteSUNAT.cs" />
+    <Compile Include="LogicaConceptos.cs" />
+    <Compile Include="LogicaConsultorioRecetaMedica.cs" />
+    <Compile Include="LogicaConsultorioRecetaMedicaDetalle.cs" />
+    <Compile Include="LogicaConvenio.cs" />
+    <Compile Include="LogicaCorrelativoDocumentos.cs" />
+    <Compile Include="LogicaDetalleAdmision.cs" />
+    <Compile Include="LogicaDetalleCita.cs" />
+    <Compile Include="LogicaDetalleConvenio.cs" />
+    <Compile Include="LogicaDetalleDocumentoContable.cs" />
+    <Compile Include="LogicaDetalleReceta.cs" />
+    <Compile Include="LogicaDetalleSUNAT.cs" />
+    <Compile Include="LogicaDocumentoContable.cs" />
+    <Compile Include="LogicaEmergencia.cs" />
+    <Compile Include="LogicaEmpleado.cs" />
+    <Compile Include="LogicaEspecialidad.cs" />
+    <Compile Include="LogicaFormasPago.cs" />
+    <Compile Include="LogicaGrupo.cs" />
+    <Compile Include="LogicaGuiaRemision.cs" />
+    <Compile Include="LogicaHistoriaClinica.cs" />
+    <Compile Include="LogicaHospitalizacion.cs" />
+    <Compile Include="LogicaInsumo.cs" />
+    <Compile Include="LogicaKardex.cs" />
+    <Compile Include="LogicaLaboratorio.cs" />
+    <Compile Include="LogicaLaboratorioDetalle.cs" />
+    <Compile Include="LogicaLibroMayor.cs" />
+    <Compile Include="LogicaLiquidacionAtencion.cs" />
+    <Compile Include="LogicaMarca.cs" />
+    <Compile Include="LogicaMedicoReferente.cs" />
+    <Compile Include="LogicaModelo.cs" />
+    <Compile Include="LogicaModeloBuscaPacAdmitido.cs" />
+    <Compile Include="LogicaModeloBuscaPacAtendido.cs" />
+    <Compile Include="LogicaModeloBuscaPacCitado.cs" />
+    <Compile Include="LogicaModeloListaHospitalizacion.cs" />
+    <Compile Include="LogicaMoneda.cs" />
+    <Compile Include="LogicaMovimientoCatalogo.cs" />
+    <Compile Include="LogicaNacionalidad.cs" />
+    <Compile Include="LogicaProgramadorTurnos.cs" />
+    <Compile Include="LogicaProveedor.cs" />
+    <Compile Include="LogicaProveedorSeguro.cs" />
+    <Compile Include="LogicaReporteAsientosContables.cs" />
+    <Compile Include="LogicaReporteCierreCaja.cs" />
+    <Compile Include="LogicaReporteLibroMayor.cs" />
+    <Compile Include="LogicaReporteMovimientoCatalogo.cs" />
+    <Compile Include="LogicaReporteProduccionMedicos.cs" />
+    <Compile Include="LogicaReporteProductosCatalogo.cs" />
+    <Compile Include="LogicaReporteStock.cs" />
+    <Compile Include="LogicaReporteVentas.cs" />
+    <Compile Include="LogicaReporte_Admision.cs" />
+    <Compile Include="LogicaReporte_Citas.cs" />
+    <Compile Include="LogicaReporte_Triaje.cs" />
+    <Compile Include="LogicaReporte_Ventas.cs" />
+    <Compile Include="LogicaSucursal.cs" />
+    <Compile Include="LogicaTarifario.cs" />
+    <Compile Include="LogicaTipoCambio.cs" />
+    <Compile Include="LogicaTramaSiete.cs" />
+    <Compile Include="LogicaTriaje.cs" />
+    <Compile Include="LogicaTurno.cs" />
+    <Compile Include="LogicaUbigeo.cs" />
+    <Compile Include="LogicaUnidadMedida.cs" />
+    <Compile Include="LogicaUnidadNegocio.cs" />
+    <Compile Include="LogicaUsuario.cs" />
+    <Compile Include="Logica_HC_CE_ATENCION_ADOLECENTE.cs" />
+    <Compile Include="Logica_HC_CE_ATENCION_ADULTO.cs" />
+    <Compile Include="Logica_HC_CE_ATENCION_ADULTO_MAYOR.cs" />
+    <Compile Include="Logica_HC_CE_ATENCION_JOVEN.cs" />
+    <Compile Include="Logica_HC_CE_ATENCION_NINO.cs" />
+    <Compile Include="Logica_HC_CE_CIRUGIA_AMBULATORIA.cs" />
+    <Compile Include="Logica_HC_CE_GINECO_OBSTETRICIA.cs" />
+    <Compile Include="Logica_HC_CE_OFTALMOLOGIA.cs" />
+    <Compile Include="Logica_HC_DG_DIAGNOSTICO.cs" />
+    <Compile Include="Logica_HC_EM_ATENCION_EMERGENCIA.cs" />
+    <Compile Include="Logica_HC_EM_LIBRO_EMERGENCIA.cs" />
+    <Compile Include="Logica_HC_Lista_Atenciones.cs" />
+    <Compile Include="Logica_TBL_HC_FESP_NOTA_ENFERMERIA.cs" />
+    <Compile Include="Logica_TBL_HC_FESP_PATOLOGIA_SOLICITUD_EXAMEN.cs" />
+    <Compile Include="Logica_TBL_HC_FESP_PATOLOGIA_SOLICITUD_EXAMEN_DETALLE.cs" />
+    <Compile Include="Logica_TBL_HC_FM_FICHA_FAMILIAR.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CapaDatos\CapaDatos.csproj">
+      <Project>{c60ece3c-97d6-4b0d-a514-78d4367506db}</Project>
+      <Name>CapaDatos</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CapaEntidad\CapaEntidad.csproj">
+      <Project>{bf57d60d-440e-45d0-be93-7857d91554ed}</Project>
+      <Name>CapaEntidad</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

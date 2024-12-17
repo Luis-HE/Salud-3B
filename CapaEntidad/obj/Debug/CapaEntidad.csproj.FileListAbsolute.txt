@@ -1,0 +1,29 @@
+D:\ERPs E-GETION\3B\CapaEntidad\bin\Debug\CapaEntidad.dll
+D:\ERPs E-GETION\3B\CapaEntidad\bin\Debug\CapaEntidad.pdb
+D:\ERPs E-GETION\3B\CapaEntidad\obj\Debug\CapaEntidad.csprojResolveAssemblyReference.cache
+D:\ERPs E-GETION\3B\CapaEntidad\obj\Debug\CapaEntidad.dll
+D:\ERPs E-GETION\3B\CapaEntidad\obj\Debug\CapaEntidad.pdb
+D:\ERPs E-GETION\HEALTHCARE\3B\CapaEntidad\bin\Debug\CapaEntidad.dll
+D:\ERPs E-GETION\HEALTHCARE\3B\CapaEntidad\bin\Debug\CapaEntidad.pdb
+D:\ERPs E-GETION\HEALTHCARE\3B\CapaEntidad\obj\Debug\CapaEntidad.dll
+D:\ERPs E-GETION\HEALTHCARE\3B\CapaEntidad\obj\Debug\CapaEntidad.pdb
+D:\ERPs E-GETION\HEALTHCARE\3B\CapaEntidad\obj\Debug\CapaEntidad.csprojResolveAssemblyReference.cache
+D:\ERPs EGESTORES SAC\HEALTHCARE\3B\CapaEntidad\bin\Debug\CapaEntidad.dll
+D:\ERPs EGESTORES SAC\HEALTHCARE\3B\CapaEntidad\bin\Debug\CapaEntidad.pdb
+D:\ERPs EGESTORES SAC\HEALTHCARE\3B\CapaEntidad\obj\Debug\CapaEntidad.dll
+D:\ERPs EGESTORES SAC\HEALTHCARE\3B\CapaEntidad\obj\Debug\CapaEntidad.pdb
+D:\ERPs EGESTORES SAC\CLINICA_UNIVERSITARIA\3B\CapaEntidad\bin\Debug\CapaEntidad.dll
+D:\ERPs EGESTORES SAC\CLINICA_UNIVERSITARIA\3B\CapaEntidad\bin\Debug\CapaEntidad.pdb
+D:\ERPs EGESTORES SAC\CLINICA_UNIVERSITARIA\3B\CapaEntidad\obj\Debug\CapaEntidad.dll
+D:\ERPs EGESTORES SAC\CLINICA_UNIVERSITARIA\3B\CapaEntidad\obj\Debug\CapaEntidad.pdb
+D:\ERPs EGESTORES SAC\NIVEL_I\3B\CapaEntidad\bin\Debug\CapaEntidad.dll
+D:\ERPs EGESTORES SAC\NIVEL_I\3B\CapaEntidad\bin\Debug\CapaEntidad.pdb
+D:\ERPs EGESTORES SAC\NIVEL_I\3B\CapaEntidad\obj\Debug\CapaEntidad.csprojResolveAssemblyReference.cache
+D:\ERPs EGESTORES SAC\NIVEL_I\3B\CapaEntidad\obj\Debug\CapaEntidad.dll
+D:\ERPs EGESTORES SAC\NIVEL_I\3B\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\Leon\Downloads\3B\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\Leon\Downloads\3B\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\Leon\Downloads\3B\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\Leon\Downloads\3B\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\Leon\Downloads\3B\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\Leon\Downloads\3B\CapaEntidad\obj\Debug\CapaEntidad.pdb

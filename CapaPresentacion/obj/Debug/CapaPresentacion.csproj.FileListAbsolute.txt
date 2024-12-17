@@ -1,0 +1,283 @@
+D:\ERPs E-GETION\3B\CapaPresentacion\bin\ApplicationInsights.config
+D:\ERPs E-GETION\3B\CapaPresentacion\bin\roslyn\csc.exe
+D:\ERPs E-GETION\3B\CapaPresentacion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ERPs E-GETION\3B\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ERPs E-GETION\3B\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ERPs E-GETION\3B\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ERPs E-GETION\3B\CapaPresentacion\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ERPs E-GETION\3B\CapaPresentacion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ERPs E-GETION\3B\CapaPresentacion\bin\roslyn\System.Collections.Immutable.dll
+D:\ERPs E-GETION\3B\CapaPresentacion\bin\roslyn\System.Reflection.Metadata.dll
+D:\ERPs E-GETION\3B\CapaPresentacion\bin\roslyn\vbc.exe
+D:\ERPs E-GETION\3B\CapaPresentacion\bin\roslyn\VBCSCompiler.exe
+D:\ERPs E-GETION\3B\CapaPresentacion\bin\roslyn\VBCSCompiler.exe.config
+D:\ERPs E-GETION\3B\CapaPresentacion\bin\CapaPresentacion.dll.config
+D:\ERPs E-GETION\3B\CapaPresentacion\bin\CapaPresentacion.dll
+D:\ERPs E-GETION\3B\CapaPresentacion\bin\CapaPresentacion.pdb
+D:\ERPs E-GETION\3B\CapaPresentacion\bin\AjaxControlToolkit.dll
+D:\ERPs E-GETION\3B\CapaPresentacion\bin\CapaEntidad.dll
+D:\ERPs E-GETION\3B\CapaPresentacion\bin\CapaLogicaNegocio.dll
+D:\ERPs E-GETION\3B\CapaPresentacion\bin\Microsoft.AI.Agent.Intercept.dll
+D:\ERPs E-GETION\3B\CapaPresentacion\bin\Microsoft.AI.DependencyCollector.dll
+D:\ERPs E-GETION\3B\CapaPresentacion\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\ERPs E-GETION\3B\CapaPresentacion\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\ERPs E-GETION\3B\CapaPresentacion\bin\Microsoft.AI.Web.dll
+D:\ERPs E-GETION\3B\CapaPresentacion\bin\Microsoft.AI.WindowsServer.dll
+D:\ERPs E-GETION\3B\CapaPresentacion\bin\Microsoft.ApplicationInsights.dll
+D:\ERPs E-GETION\3B\CapaPresentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ERPs E-GETION\3B\CapaPresentacion\bin\CapaDatos.dll
+D:\ERPs E-GETION\3B\CapaPresentacion\bin\CapaEntidad.pdb
+D:\ERPs E-GETION\3B\CapaPresentacion\bin\CapaLogicaNegocio.pdb
+D:\ERPs E-GETION\3B\CapaPresentacion\bin\Microsoft.AI.DependencyCollector.xml
+D:\ERPs E-GETION\3B\CapaPresentacion\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\ERPs E-GETION\3B\CapaPresentacion\bin\Microsoft.AI.Web.xml
+D:\ERPs E-GETION\3B\CapaPresentacion\bin\Microsoft.AI.WindowsServer.xml
+D:\ERPs E-GETION\3B\CapaPresentacion\bin\Microsoft.ApplicationInsights.xml
+D:\ERPs E-GETION\3B\CapaPresentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ERPs E-GETION\3B\CapaPresentacion\bin\CapaDatos.pdb
+D:\ERPs E-GETION\3B\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+D:\ERPs E-GETION\3B\CapaPresentacion\obj\Debug\CapaPresentacion.dll
+D:\ERPs E-GETION\3B\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+D:\ERPs E-GETION\HEALTHCARE\3B\CapaPresentacion\bin\ApplicationInsights.config
+D:\ERPs E-GETION\HEALTHCARE\3B\CapaPresentacion\bin\roslyn\csc.exe
+D:\ERPs E-GETION\HEALTHCARE\3B\CapaPresentacion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ERPs E-GETION\HEALTHCARE\3B\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ERPs E-GETION\HEALTHCARE\3B\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ERPs E-GETION\HEALTHCARE\3B\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ERPs E-GETION\HEALTHCARE\3B\CapaPresentacion\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ERPs E-GETION\HEALTHCARE\3B\CapaPresentacion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ERPs E-GETION\HEALTHCARE\3B\CapaPresentacion\bin\roslyn\System.Collections.Immutable.dll
+D:\ERPs E-GETION\HEALTHCARE\3B\CapaPresentacion\bin\roslyn\System.Reflection.Metadata.dll
+D:\ERPs E-GETION\HEALTHCARE\3B\CapaPresentacion\bin\roslyn\vbc.exe
+D:\ERPs E-GETION\HEALTHCARE\3B\CapaPresentacion\bin\roslyn\VBCSCompiler.exe
+D:\ERPs E-GETION\HEALTHCARE\3B\CapaPresentacion\bin\roslyn\VBCSCompiler.exe.config
+D:\ERPs E-GETION\HEALTHCARE\3B\CapaPresentacion\bin\CapaPresentacion.dll.config
+D:\ERPs E-GETION\HEALTHCARE\3B\CapaPresentacion\bin\CapaPresentacion.dll
+D:\ERPs E-GETION\HEALTHCARE\3B\CapaPresentacion\bin\CapaPresentacion.pdb
+D:\ERPs E-GETION\HEALTHCARE\3B\CapaPresentacion\bin\AjaxControlToolkit.dll
+D:\ERPs E-GETION\HEALTHCARE\3B\CapaPresentacion\bin\CapaEntidad.dll
+D:\ERPs E-GETION\HEALTHCARE\3B\CapaPresentacion\bin\CapaLogicaNegocio.dll
+D:\ERPs E-GETION\HEALTHCARE\3B\CapaPresentacion\bin\Microsoft.AI.Agent.Intercept.dll
+D:\ERPs E-GETION\HEALTHCARE\3B\CapaPresentacion\bin\Microsoft.AI.DependencyCollector.dll
+D:\ERPs E-GETION\HEALTHCARE\3B\CapaPresentacion\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\ERPs E-GETION\HEALTHCARE\3B\CapaPresentacion\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\ERPs E-GETION\HEALTHCARE\3B\CapaPresentacion\bin\Microsoft.AI.Web.dll
+D:\ERPs E-GETION\HEALTHCARE\3B\CapaPresentacion\bin\Microsoft.AI.WindowsServer.dll
+D:\ERPs E-GETION\HEALTHCARE\3B\CapaPresentacion\bin\Microsoft.ApplicationInsights.dll
+D:\ERPs E-GETION\HEALTHCARE\3B\CapaPresentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ERPs E-GETION\HEALTHCARE\3B\CapaPresentacion\bin\CapaDatos.dll
+D:\ERPs E-GETION\HEALTHCARE\3B\CapaPresentacion\bin\CapaEntidad.pdb
+D:\ERPs E-GETION\HEALTHCARE\3B\CapaPresentacion\bin\CapaLogicaNegocio.pdb
+D:\ERPs E-GETION\HEALTHCARE\3B\CapaPresentacion\bin\Microsoft.AI.DependencyCollector.xml
+D:\ERPs E-GETION\HEALTHCARE\3B\CapaPresentacion\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\ERPs E-GETION\HEALTHCARE\3B\CapaPresentacion\bin\Microsoft.AI.Web.xml
+D:\ERPs E-GETION\HEALTHCARE\3B\CapaPresentacion\bin\Microsoft.AI.WindowsServer.xml
+D:\ERPs E-GETION\HEALTHCARE\3B\CapaPresentacion\bin\Microsoft.ApplicationInsights.xml
+D:\ERPs E-GETION\HEALTHCARE\3B\CapaPresentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ERPs E-GETION\HEALTHCARE\3B\CapaPresentacion\bin\CapaDatos.pdb
+D:\ERPs E-GETION\HEALTHCARE\3B\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+D:\ERPs E-GETION\HEALTHCARE\3B\CapaPresentacion\obj\Debug\CapaPresentacion.dll
+D:\ERPs E-GETION\HEALTHCARE\3B\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+D:\ERPs EGESTORES SAC\HEALTHCARE\3B\CapaPresentacion\bin\ApplicationInsights.config
+D:\ERPs EGESTORES SAC\HEALTHCARE\3B\CapaPresentacion\bin\roslyn\csc.exe
+D:\ERPs EGESTORES SAC\HEALTHCARE\3B\CapaPresentacion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ERPs EGESTORES SAC\HEALTHCARE\3B\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ERPs EGESTORES SAC\HEALTHCARE\3B\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ERPs EGESTORES SAC\HEALTHCARE\3B\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ERPs EGESTORES SAC\HEALTHCARE\3B\CapaPresentacion\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ERPs EGESTORES SAC\HEALTHCARE\3B\CapaPresentacion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ERPs EGESTORES SAC\HEALTHCARE\3B\CapaPresentacion\bin\roslyn\System.Collections.Immutable.dll
+D:\ERPs EGESTORES SAC\HEALTHCARE\3B\CapaPresentacion\bin\roslyn\System.Reflection.Metadata.dll
+D:\ERPs EGESTORES SAC\HEALTHCARE\3B\CapaPresentacion\bin\roslyn\vbc.exe
+D:\ERPs EGESTORES SAC\HEALTHCARE\3B\CapaPresentacion\bin\roslyn\VBCSCompiler.exe
+D:\ERPs EGESTORES SAC\HEALTHCARE\3B\CapaPresentacion\bin\roslyn\VBCSCompiler.exe.config
+D:\ERPs EGESTORES SAC\HEALTHCARE\3B\CapaPresentacion\bin\CapaPresentacion.dll.config
+D:\ERPs EGESTORES SAC\HEALTHCARE\3B\CapaPresentacion\bin\CapaPresentacion.dll
+D:\ERPs EGESTORES SAC\HEALTHCARE\3B\CapaPresentacion\bin\CapaPresentacion.pdb
+D:\ERPs EGESTORES SAC\HEALTHCARE\3B\CapaPresentacion\bin\AjaxControlToolkit.dll
+D:\ERPs EGESTORES SAC\HEALTHCARE\3B\CapaPresentacion\bin\CapaEntidad.dll
+D:\ERPs EGESTORES SAC\HEALTHCARE\3B\CapaPresentacion\bin\CapaLogicaNegocio.dll
+D:\ERPs EGESTORES SAC\HEALTHCARE\3B\CapaPresentacion\bin\CrystalDecisions.CrystalReports.Engine.dll
+D:\ERPs EGESTORES SAC\HEALTHCARE\3B\CapaPresentacion\bin\CrystalDecisions.ReportSource.dll
+D:\ERPs EGESTORES SAC\HEALTHCARE\3B\CapaPresentacion\bin\CrystalDecisions.Shared.dll
+D:\ERPs EGESTORES SAC\HEALTHCARE\3B\CapaPresentacion\bin\CrystalDecisions.Web.dll
+D:\ERPs EGESTORES SAC\HEALTHCARE\3B\CapaPresentacion\bin\Microsoft.AI.Agent.Intercept.dll
+D:\ERPs EGESTORES SAC\HEALTHCARE\3B\CapaPresentacion\bin\Microsoft.AI.DependencyCollector.dll
+D:\ERPs EGESTORES SAC\HEALTHCARE\3B\CapaPresentacion\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\ERPs EGESTORES SAC\HEALTHCARE\3B\CapaPresentacion\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\ERPs EGESTORES SAC\HEALTHCARE\3B\CapaPresentacion\bin\Microsoft.AI.Web.dll
+D:\ERPs EGESTORES SAC\HEALTHCARE\3B\CapaPresentacion\bin\Microsoft.AI.WindowsServer.dll
+D:\ERPs EGESTORES SAC\HEALTHCARE\3B\CapaPresentacion\bin\Microsoft.ApplicationInsights.dll
+D:\ERPs EGESTORES SAC\HEALTHCARE\3B\CapaPresentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ERPs EGESTORES SAC\HEALTHCARE\3B\CapaPresentacion\bin\Microsoft.ReportViewer.WebForms.dll
+D:\ERPs EGESTORES SAC\HEALTHCARE\3B\CapaPresentacion\bin\CapaDatos.dll
+D:\ERPs EGESTORES SAC\HEALTHCARE\3B\CapaPresentacion\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\ERPs EGESTORES SAC\HEALTHCARE\3B\CapaPresentacion\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\ERPs EGESTORES SAC\HEALTHCARE\3B\CapaPresentacion\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\ERPs EGESTORES SAC\HEALTHCARE\3B\CapaPresentacion\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\ERPs EGESTORES SAC\HEALTHCARE\3B\CapaPresentacion\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\ERPs EGESTORES SAC\HEALTHCARE\3B\CapaPresentacion\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\ERPs EGESTORES SAC\HEALTHCARE\3B\CapaPresentacion\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\ERPs EGESTORES SAC\HEALTHCARE\3B\CapaPresentacion\bin\CapaEntidad.pdb
+D:\ERPs EGESTORES SAC\HEALTHCARE\3B\CapaPresentacion\bin\CapaLogicaNegocio.pdb
+D:\ERPs EGESTORES SAC\HEALTHCARE\3B\CapaPresentacion\bin\Microsoft.AI.DependencyCollector.xml
+D:\ERPs EGESTORES SAC\HEALTHCARE\3B\CapaPresentacion\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\ERPs EGESTORES SAC\HEALTHCARE\3B\CapaPresentacion\bin\Microsoft.AI.Web.xml
+D:\ERPs EGESTORES SAC\HEALTHCARE\3B\CapaPresentacion\bin\Microsoft.AI.WindowsServer.xml
+D:\ERPs EGESTORES SAC\HEALTHCARE\3B\CapaPresentacion\bin\Microsoft.ApplicationInsights.xml
+D:\ERPs EGESTORES SAC\HEALTHCARE\3B\CapaPresentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ERPs EGESTORES SAC\HEALTHCARE\3B\CapaPresentacion\bin\CapaDatos.pdb
+D:\ERPs EGESTORES SAC\HEALTHCARE\3B\CapaPresentacion\bin\es\Microsoft.ReportViewer.WebForms.resources.dll
+D:\ERPs EGESTORES SAC\HEALTHCARE\3B\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+D:\ERPs EGESTORES SAC\HEALTHCARE\3B\CapaPresentacion\obj\Debug\CapaPresentacion.dll
+D:\ERPs EGESTORES SAC\HEALTHCARE\3B\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+D:\ERPs EGESTORES SAC\CLINICA_UNIVERSITARIA\3B\CapaPresentacion\bin\ApplicationInsights.config
+D:\ERPs EGESTORES SAC\CLINICA_UNIVERSITARIA\3B\CapaPresentacion\bin\roslyn\csc.exe
+D:\ERPs EGESTORES SAC\CLINICA_UNIVERSITARIA\3B\CapaPresentacion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ERPs EGESTORES SAC\CLINICA_UNIVERSITARIA\3B\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ERPs EGESTORES SAC\CLINICA_UNIVERSITARIA\3B\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ERPs EGESTORES SAC\CLINICA_UNIVERSITARIA\3B\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ERPs EGESTORES SAC\CLINICA_UNIVERSITARIA\3B\CapaPresentacion\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ERPs EGESTORES SAC\CLINICA_UNIVERSITARIA\3B\CapaPresentacion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ERPs EGESTORES SAC\CLINICA_UNIVERSITARIA\3B\CapaPresentacion\bin\roslyn\System.Collections.Immutable.dll
+D:\ERPs EGESTORES SAC\CLINICA_UNIVERSITARIA\3B\CapaPresentacion\bin\roslyn\System.Reflection.Metadata.dll
+D:\ERPs EGESTORES SAC\CLINICA_UNIVERSITARIA\3B\CapaPresentacion\bin\roslyn\vbc.exe
+D:\ERPs EGESTORES SAC\CLINICA_UNIVERSITARIA\3B\CapaPresentacion\bin\roslyn\VBCSCompiler.exe
+D:\ERPs EGESTORES SAC\CLINICA_UNIVERSITARIA\3B\CapaPresentacion\bin\roslyn\VBCSCompiler.exe.config
+D:\ERPs EGESTORES SAC\CLINICA_UNIVERSITARIA\3B\CapaPresentacion\bin\CapaPresentacion.dll.config
+D:\ERPs EGESTORES SAC\CLINICA_UNIVERSITARIA\3B\CapaPresentacion\bin\CapaPresentacion.dll
+D:\ERPs EGESTORES SAC\CLINICA_UNIVERSITARIA\3B\CapaPresentacion\bin\CapaPresentacion.pdb
+D:\ERPs EGESTORES SAC\CLINICA_UNIVERSITARIA\3B\CapaPresentacion\bin\AjaxControlToolkit.dll
+D:\ERPs EGESTORES SAC\CLINICA_UNIVERSITARIA\3B\CapaPresentacion\bin\CapaEntidad.dll
+D:\ERPs EGESTORES SAC\CLINICA_UNIVERSITARIA\3B\CapaPresentacion\bin\CapaLogicaNegocio.dll
+D:\ERPs EGESTORES SAC\CLINICA_UNIVERSITARIA\3B\CapaPresentacion\bin\itextsharp.dll
+D:\ERPs EGESTORES SAC\CLINICA_UNIVERSITARIA\3B\CapaPresentacion\bin\Microsoft.AI.Agent.Intercept.dll
+D:\ERPs EGESTORES SAC\CLINICA_UNIVERSITARIA\3B\CapaPresentacion\bin\Microsoft.AI.DependencyCollector.dll
+D:\ERPs EGESTORES SAC\CLINICA_UNIVERSITARIA\3B\CapaPresentacion\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\ERPs EGESTORES SAC\CLINICA_UNIVERSITARIA\3B\CapaPresentacion\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\ERPs EGESTORES SAC\CLINICA_UNIVERSITARIA\3B\CapaPresentacion\bin\Microsoft.AI.Web.dll
+D:\ERPs EGESTORES SAC\CLINICA_UNIVERSITARIA\3B\CapaPresentacion\bin\Microsoft.AI.WindowsServer.dll
+D:\ERPs EGESTORES SAC\CLINICA_UNIVERSITARIA\3B\CapaPresentacion\bin\Microsoft.ApplicationInsights.dll
+D:\ERPs EGESTORES SAC\CLINICA_UNIVERSITARIA\3B\CapaPresentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ERPs EGESTORES SAC\CLINICA_UNIVERSITARIA\3B\CapaPresentacion\bin\Microsoft.ReportViewer.WebForms.dll
+D:\ERPs EGESTORES SAC\CLINICA_UNIVERSITARIA\3B\CapaPresentacion\bin\CapaDatos.dll
+D:\ERPs EGESTORES SAC\CLINICA_UNIVERSITARIA\3B\CapaPresentacion\bin\Microsoft.SqlServer.Types.dll
+D:\ERPs EGESTORES SAC\CLINICA_UNIVERSITARIA\3B\CapaPresentacion\bin\CapaEntidad.pdb
+D:\ERPs EGESTORES SAC\CLINICA_UNIVERSITARIA\3B\CapaPresentacion\bin\CapaLogicaNegocio.pdb
+D:\ERPs EGESTORES SAC\CLINICA_UNIVERSITARIA\3B\CapaPresentacion\bin\Microsoft.AI.DependencyCollector.xml
+D:\ERPs EGESTORES SAC\CLINICA_UNIVERSITARIA\3B\CapaPresentacion\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\ERPs EGESTORES SAC\CLINICA_UNIVERSITARIA\3B\CapaPresentacion\bin\Microsoft.AI.Web.xml
+D:\ERPs EGESTORES SAC\CLINICA_UNIVERSITARIA\3B\CapaPresentacion\bin\Microsoft.AI.WindowsServer.xml
+D:\ERPs EGESTORES SAC\CLINICA_UNIVERSITARIA\3B\CapaPresentacion\bin\Microsoft.ApplicationInsights.xml
+D:\ERPs EGESTORES SAC\CLINICA_UNIVERSITARIA\3B\CapaPresentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ERPs EGESTORES SAC\CLINICA_UNIVERSITARIA\3B\CapaPresentacion\bin\CapaDatos.pdb
+D:\ERPs EGESTORES SAC\CLINICA_UNIVERSITARIA\3B\CapaPresentacion\bin\es\Microsoft.ReportViewer.WebForms.resources.dll
+D:\ERPs EGESTORES SAC\CLINICA_UNIVERSITARIA\3B\CapaPresentacion\bin\de\Microsoft.SqlServer.Types.resources.dll
+D:\ERPs EGESTORES SAC\CLINICA_UNIVERSITARIA\3B\CapaPresentacion\bin\es\Microsoft.SqlServer.Types.resources.dll
+D:\ERPs EGESTORES SAC\CLINICA_UNIVERSITARIA\3B\CapaPresentacion\bin\fr\Microsoft.SqlServer.Types.resources.dll
+D:\ERPs EGESTORES SAC\CLINICA_UNIVERSITARIA\3B\CapaPresentacion\bin\it\Microsoft.SqlServer.Types.resources.dll
+D:\ERPs EGESTORES SAC\CLINICA_UNIVERSITARIA\3B\CapaPresentacion\bin\ja\Microsoft.SqlServer.Types.resources.dll
+D:\ERPs EGESTORES SAC\CLINICA_UNIVERSITARIA\3B\CapaPresentacion\bin\ko\Microsoft.SqlServer.Types.resources.dll
+D:\ERPs EGESTORES SAC\CLINICA_UNIVERSITARIA\3B\CapaPresentacion\bin\pt\Microsoft.SqlServer.Types.resources.dll
+D:\ERPs EGESTORES SAC\CLINICA_UNIVERSITARIA\3B\CapaPresentacion\bin\ru\Microsoft.SqlServer.Types.resources.dll
+D:\ERPs EGESTORES SAC\CLINICA_UNIVERSITARIA\3B\CapaPresentacion\bin\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\ERPs EGESTORES SAC\CLINICA_UNIVERSITARIA\3B\CapaPresentacion\bin\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\ERPs EGESTORES SAC\CLINICA_UNIVERSITARIA\3B\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+D:\ERPs EGESTORES SAC\CLINICA_UNIVERSITARIA\3B\CapaPresentacion\obj\Debug\CapaPresentacion.dll
+D:\ERPs EGESTORES SAC\CLINICA_UNIVERSITARIA\3B\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+D:\ERPs EGESTORES SAC\NIVEL_I\3B\CapaPresentacion\bin\ApplicationInsights.config
+D:\ERPs EGESTORES SAC\NIVEL_I\3B\CapaPresentacion\bin\roslyn\csc.exe
+D:\ERPs EGESTORES SAC\NIVEL_I\3B\CapaPresentacion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ERPs EGESTORES SAC\NIVEL_I\3B\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ERPs EGESTORES SAC\NIVEL_I\3B\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ERPs EGESTORES SAC\NIVEL_I\3B\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ERPs EGESTORES SAC\NIVEL_I\3B\CapaPresentacion\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ERPs EGESTORES SAC\NIVEL_I\3B\CapaPresentacion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ERPs EGESTORES SAC\NIVEL_I\3B\CapaPresentacion\bin\roslyn\System.Collections.Immutable.dll
+D:\ERPs EGESTORES SAC\NIVEL_I\3B\CapaPresentacion\bin\roslyn\System.Reflection.Metadata.dll
+D:\ERPs EGESTORES SAC\NIVEL_I\3B\CapaPresentacion\bin\roslyn\vbc.exe
+D:\ERPs EGESTORES SAC\NIVEL_I\3B\CapaPresentacion\bin\roslyn\VBCSCompiler.exe
+D:\ERPs EGESTORES SAC\NIVEL_I\3B\CapaPresentacion\bin\roslyn\VBCSCompiler.exe.config
+D:\ERPs EGESTORES SAC\NIVEL_I\3B\CapaPresentacion\bin\CapaPresentacion.dll.config
+D:\ERPs EGESTORES SAC\NIVEL_I\3B\CapaPresentacion\bin\CapaPresentacion.dll
+D:\ERPs EGESTORES SAC\NIVEL_I\3B\CapaPresentacion\bin\CapaPresentacion.pdb
+D:\ERPs EGESTORES SAC\NIVEL_I\3B\CapaPresentacion\bin\AjaxControlToolkit.dll
+D:\ERPs EGESTORES SAC\NIVEL_I\3B\CapaPresentacion\bin\CapaEntidad.dll
+D:\ERPs EGESTORES SAC\NIVEL_I\3B\CapaPresentacion\bin\CapaLogicaNegocio.dll
+D:\ERPs EGESTORES SAC\NIVEL_I\3B\CapaPresentacion\bin\itextsharp.dll
+D:\ERPs EGESTORES SAC\NIVEL_I\3B\CapaPresentacion\bin\Microsoft.AI.Agent.Intercept.dll
+D:\ERPs EGESTORES SAC\NIVEL_I\3B\CapaPresentacion\bin\Microsoft.AI.DependencyCollector.dll
+D:\ERPs EGESTORES SAC\NIVEL_I\3B\CapaPresentacion\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\ERPs EGESTORES SAC\NIVEL_I\3B\CapaPresentacion\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\ERPs EGESTORES SAC\NIVEL_I\3B\CapaPresentacion\bin\Microsoft.AI.Web.dll
+D:\ERPs EGESTORES SAC\NIVEL_I\3B\CapaPresentacion\bin\Microsoft.AI.WindowsServer.dll
+D:\ERPs EGESTORES SAC\NIVEL_I\3B\CapaPresentacion\bin\Microsoft.ApplicationInsights.dll
+D:\ERPs EGESTORES SAC\NIVEL_I\3B\CapaPresentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ERPs EGESTORES SAC\NIVEL_I\3B\CapaPresentacion\bin\Microsoft.ReportViewer.WebForms.dll
+D:\ERPs EGESTORES SAC\NIVEL_I\3B\CapaPresentacion\bin\CapaDatos.dll
+D:\ERPs EGESTORES SAC\NIVEL_I\3B\CapaPresentacion\bin\Microsoft.SqlServer.Types.dll
+D:\ERPs EGESTORES SAC\NIVEL_I\3B\CapaPresentacion\bin\CapaEntidad.pdb
+D:\ERPs EGESTORES SAC\NIVEL_I\3B\CapaPresentacion\bin\CapaLogicaNegocio.pdb
+D:\ERPs EGESTORES SAC\NIVEL_I\3B\CapaPresentacion\bin\Microsoft.AI.DependencyCollector.xml
+D:\ERPs EGESTORES SAC\NIVEL_I\3B\CapaPresentacion\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\ERPs EGESTORES SAC\NIVEL_I\3B\CapaPresentacion\bin\Microsoft.AI.Web.xml
+D:\ERPs EGESTORES SAC\NIVEL_I\3B\CapaPresentacion\bin\Microsoft.AI.WindowsServer.xml
+D:\ERPs EGESTORES SAC\NIVEL_I\3B\CapaPresentacion\bin\Microsoft.ApplicationInsights.xml
+D:\ERPs EGESTORES SAC\NIVEL_I\3B\CapaPresentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ERPs EGESTORES SAC\NIVEL_I\3B\CapaPresentacion\bin\CapaDatos.pdb
+D:\ERPs EGESTORES SAC\NIVEL_I\3B\CapaPresentacion\bin\es\Microsoft.ReportViewer.WebForms.resources.dll
+D:\ERPs EGESTORES SAC\NIVEL_I\3B\CapaPresentacion\bin\de\Microsoft.SqlServer.Types.resources.dll
+D:\ERPs EGESTORES SAC\NIVEL_I\3B\CapaPresentacion\bin\es\Microsoft.SqlServer.Types.resources.dll
+D:\ERPs EGESTORES SAC\NIVEL_I\3B\CapaPresentacion\bin\fr\Microsoft.SqlServer.Types.resources.dll
+D:\ERPs EGESTORES SAC\NIVEL_I\3B\CapaPresentacion\bin\it\Microsoft.SqlServer.Types.resources.dll
+D:\ERPs EGESTORES SAC\NIVEL_I\3B\CapaPresentacion\bin\ja\Microsoft.SqlServer.Types.resources.dll
+D:\ERPs EGESTORES SAC\NIVEL_I\3B\CapaPresentacion\bin\ko\Microsoft.SqlServer.Types.resources.dll
+D:\ERPs EGESTORES SAC\NIVEL_I\3B\CapaPresentacion\bin\pt\Microsoft.SqlServer.Types.resources.dll
+D:\ERPs EGESTORES SAC\NIVEL_I\3B\CapaPresentacion\bin\ru\Microsoft.SqlServer.Types.resources.dll
+D:\ERPs EGESTORES SAC\NIVEL_I\3B\CapaPresentacion\bin\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\ERPs EGESTORES SAC\NIVEL_I\3B\CapaPresentacion\bin\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\ERPs EGESTORES SAC\NIVEL_I\3B\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+D:\ERPs EGESTORES SAC\NIVEL_I\3B\CapaPresentacion\obj\Debug\CapaPresentacion.dll
+D:\ERPs EGESTORES SAC\NIVEL_I\3B\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\Leon\Downloads\3B\CapaPresentacion\bin\ApplicationInsights.config
+C:\Users\Leon\Downloads\3B\CapaPresentacion\bin\roslyn\csc.exe
+C:\Users\Leon\Downloads\3B\CapaPresentacion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Leon\Downloads\3B\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Leon\Downloads\3B\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Leon\Downloads\3B\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Leon\Downloads\3B\CapaPresentacion\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Leon\Downloads\3B\CapaPresentacion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Leon\Downloads\3B\CapaPresentacion\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Leon\Downloads\3B\CapaPresentacion\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Leon\Downloads\3B\CapaPresentacion\bin\roslyn\vbc.exe
+C:\Users\Leon\Downloads\3B\CapaPresentacion\bin\roslyn\VBCSCompiler.exe
+C:\Users\Leon\Downloads\3B\CapaPresentacion\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Leon\Downloads\3B\CapaPresentacion\bin\CapaPresentacion.dll.config
+C:\Users\Leon\Downloads\3B\CapaPresentacion\bin\CapaPresentacion.dll
+C:\Users\Leon\Downloads\3B\CapaPresentacion\bin\CapaPresentacion.pdb
+C:\Users\Leon\Downloads\3B\CapaPresentacion\bin\CapaEntidad.dll
+C:\Users\Leon\Downloads\3B\CapaPresentacion\bin\CapaLogicaNegocio.dll
+C:\Users\Leon\Downloads\3B\CapaPresentacion\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Leon\Downloads\3B\CapaPresentacion\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Leon\Downloads\3B\CapaPresentacion\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Leon\Downloads\3B\CapaPresentacion\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Leon\Downloads\3B\CapaPresentacion\bin\Microsoft.AI.Web.dll
+C:\Users\Leon\Downloads\3B\CapaPresentacion\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Leon\Downloads\3B\CapaPresentacion\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Leon\Downloads\3B\CapaPresentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Leon\Downloads\3B\CapaPresentacion\bin\CapaDatos.dll
+C:\Users\Leon\Downloads\3B\CapaPresentacion\bin\CapaEntidad.pdb
+C:\Users\Leon\Downloads\3B\CapaPresentacion\bin\CapaLogicaNegocio.pdb
+C:\Users\Leon\Downloads\3B\CapaPresentacion\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Leon\Downloads\3B\CapaPresentacion\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Leon\Downloads\3B\CapaPresentacion\bin\Microsoft.AI.Web.xml
+C:\Users\Leon\Downloads\3B\CapaPresentacion\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Leon\Downloads\3B\CapaPresentacion\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Leon\Downloads\3B\CapaPresentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Leon\Downloads\3B\CapaPresentacion\bin\CapaDatos.pdb
+C:\Users\Leon\Downloads\3B\CapaPresentacion\bin\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Leon\Downloads\3B\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\Leon\Downloads\3B\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Leon\Downloads\3B\CapaPresentacion\obj\Debug\CapaPres.61CA7C38.Up2Date
+C:\Users\Leon\Downloads\3B\CapaPresentacion\obj\Debug\CapaPresentacion.dll
+C:\Users\Leon\Downloads\3B\CapaPresentacion\obj\Debug\CapaPresentacion.pdb

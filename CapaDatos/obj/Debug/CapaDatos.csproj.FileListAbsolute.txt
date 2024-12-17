@@ -1,0 +1,35 @@
+D:\ERPs E-GETION\3B\CapaDatos\bin\Debug\CapaDatos.dll
+D:\ERPs E-GETION\3B\CapaDatos\bin\Debug\CapaDatos.pdb
+D:\ERPs E-GETION\3B\CapaDatos\bin\Debug\CapaEntidad.dll
+D:\ERPs E-GETION\3B\CapaDatos\bin\Debug\CapaEntidad.pdb
+D:\ERPs E-GETION\3B\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+D:\ERPs E-GETION\3B\CapaDatos\obj\Debug\CapaDatos.dll
+D:\ERPs E-GETION\3B\CapaDatos\obj\Debug\CapaDatos.pdb
+D:\ERPs E-GETION\HEALTHCARE\3B\CapaDatos\bin\Debug\CapaDatos.dll
+D:\ERPs E-GETION\HEALTHCARE\3B\CapaDatos\bin\Debug\CapaDatos.pdb
+D:\ERPs E-GETION\HEALTHCARE\3B\CapaDatos\bin\Debug\CapaEntidad.dll
+D:\ERPs E-GETION\HEALTHCARE\3B\CapaDatos\bin\Debug\CapaEntidad.pdb
+D:\ERPs E-GETION\HEALTHCARE\3B\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+D:\ERPs E-GETION\HEALTHCARE\3B\CapaDatos\obj\Debug\CapaDatos.dll
+D:\ERPs E-GETION\HEALTHCARE\3B\CapaDatos\obj\Debug\CapaDatos.pdb
+D:\ERPs EGESTORES SAC\HEALTHCARE\3B\CapaDatos\bin\Debug\CapaDatos.dll
+D:\ERPs EGESTORES SAC\HEALTHCARE\3B\CapaDatos\bin\Debug\CapaDatos.pdb
+D:\ERPs EGESTORES SAC\HEALTHCARE\3B\CapaDatos\bin\Debug\CapaEntidad.dll
+D:\ERPs EGESTORES SAC\HEALTHCARE\3B\CapaDatos\bin\Debug\CapaEntidad.pdb
+D:\ERPs EGESTORES SAC\HEALTHCARE\3B\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+D:\ERPs EGESTORES SAC\HEALTHCARE\3B\CapaDatos\obj\Debug\CapaDatos.dll
+D:\ERPs EGESTORES SAC\HEALTHCARE\3B\CapaDatos\obj\Debug\CapaDatos.pdb
+D:\ERPs EGESTORES SAC\CLINICA_UNIVERSITARIA\3B\CapaDatos\bin\Debug\CapaDatos.dll
+D:\ERPs EGESTORES SAC\CLINICA_UNIVERSITARIA\3B\CapaDatos\bin\Debug\CapaDatos.pdb
+D:\ERPs EGESTORES SAC\CLINICA_UNIVERSITARIA\3B\CapaDatos\bin\Debug\CapaEntidad.dll
+D:\ERPs EGESTORES SAC\CLINICA_UNIVERSITARIA\3B\CapaDatos\bin\Debug\CapaEntidad.pdb
+D:\ERPs EGESTORES SAC\CLINICA_UNIVERSITARIA\3B\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+D:\ERPs EGESTORES SAC\CLINICA_UNIVERSITARIA\3B\CapaDatos\obj\Debug\CapaDatos.dll
+D:\ERPs EGESTORES SAC\CLINICA_UNIVERSITARIA\3B\CapaDatos\obj\Debug\CapaDatos.pdb
+D:\ERPs EGESTORES SAC\NIVEL_I\3B\CapaDatos\bin\Debug\CapaDatos.dll
+D:\ERPs EGESTORES SAC\NIVEL_I\3B\CapaDatos\bin\Debug\CapaDatos.pdb
+D:\ERPs EGESTORES SAC\NIVEL_I\3B\CapaDatos\bin\Debug\CapaEntidad.dll
+D:\ERPs EGESTORES SAC\NIVEL_I\3B\CapaDatos\bin\Debug\CapaEntidad.pdb
+D:\ERPs EGESTORES SAC\NIVEL_I\3B\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+D:\ERPs EGESTORES SAC\NIVEL_I\3B\CapaDatos\obj\Debug\CapaDatos.dll
+D:\ERPs EGESTORES SAC\NIVEL_I\3B\CapaDatos\obj\Debug\CapaDatos.pdb

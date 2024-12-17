@@ -1,0 +1,56 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MasterPage.master.cs" Inherits="CapaPresentacion.MasterPage" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+ 
+    <title>3B Solution</title>
+   <link href="/Styles/StyleControls.css" rel="stylesheet" type="text/css" />
+   <link href="Images/3Bicon.ico" rel="shortcut icon" type="image/x-icon" />
+
+<%--   <script src="Scripts/TimeOut/jquery-1.8.3.js" type="text/javascript"></script>
+   <script src="Scripts/TimeOut/JScriptTimeOut.js" type="text/javascript"></script>--%>
+     <%-- colocar en body onload="initSession()"--%>
+</head>
+<body  class="body">
+  <form id="form1" runat="server">
+    <table id="myTable" border="0" style="width:100%; margin-left:auto;margin-right:auto;border-collapse:collapse;border: 1px solid #1F497D;">
+
+        <tr style=" height:10%; text-align:center;background-color:#e1a447;border: 1px solid #1F497D;">
+         <td colspan="2">
+             <h1 style="text-shadow: 3px 2px 0px #1F497D, 9px 8px 0px rgba(0,0,0,0.15); color:#B6B6B4;">3B SOLUTION - Healthcare</h1>
+         </td>
+        </tr>
+        <tr style="height:85%">
+            <td style="width:20%;vertical-align:top;background-color:#e1a447;">
+                <asp:SiteMapDataSource ID="SiteMapDataSource1" runat="server"  ShowStartingNode="false"/>
+                <asp:TreeView ID="TreeView1" runat="server" RootNodeStyle-CssClass="rootNodeStyle" ParentNodeStyle-CssClass="parentNodeSytle" DataSourceID="SiteMapDataSource1" ExpandDepth="0" CssClass="treeview" ShowLines="true" >
+
+                </asp:TreeView>
+            </td>
+            <td style="width:80%; vertical-align:top;background-color:#B6B6B4;"> <%--background-image:url(../Images/Logo_CU.png);background-size: 100% 100%;--%>
+               <%-- <div style="overflow-x:auto"> para hacer un scroll bar horizontal en caso de Gridview grandes--%>
+                 <div>
+                  <asp:ContentPlaceHolder ID="MainContent" runat="server">
+                         
+                  </asp:ContentPlaceHolder>
+               </div>
+            </td>
+        </tr>
+        <tr style="height:5%; text-align:center;background-color:#e1a447; color:white">
+            <td colspan="2">
+                © EGestores SAC - www.egestores.com.pe
+            </td>      
+        </tr>
+    </table>
+ 
+  </form>
+</body>
+<%--para ajustar la tabla al screen de la pantalla de cuelquier PC o Laptop--%>
+<script type="text/javascript">
+    document.getElementById('myTable').setAttribute('height', screen.height);
+    document.getElementById('myTable').setAttribute('width', screen.width);
+</script>
+</html>

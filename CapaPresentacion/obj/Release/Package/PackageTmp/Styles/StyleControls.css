@@ -1,0 +1,354 @@
+﻿.body{
+    font-family:Calibri;
+    margin:0px; /*ajusta los espacios en las esquinas(los 4 lados)*/
+    height: 100%; 
+}
+/*Class button*/
+.button {
+  color: #fff;
+  text-shadow: -2px 2px #346392;
+  background-color:#e1a447;
+  background-image: linear-gradient(top, #6496c8, #346392);
+  box-shadow: inset 0 0 0 1px #27496d;
+  border: none;
+  border-radius: 10px;
+  width:110px;
+  height:30px;
+  cursor:pointer;/*la mano*/
+}
+.button:hover {
+  box-shadow: inset 0 0 0 1px #27496d,0 5px 15px #193047;}
+.button:active
+{
+  /*box-shadow: inset 0 0 0 1px #27496d,inset 0 5px 30px #193047;*/
+  border: 1px solid #5f695a;
+}
+.buttonRounded{
+    width:25px;/*puede ser seteado en el formulario asp*/
+    height:25px;/*puede ser seteado en el formulario asp*/
+    border-radius:100%;
+    -moz-border-radius:100%;
+    -webkit-border-radius:100%;
+    border:1px solid;
+    border-color:white;
+}
+/*Class TextBox LETRAS*/
+.textbox {
+    border: 1px solid #c4c4c4;
+    height: 15px;
+    font-size: 12px;
+    padding: 4px 4px 4px 4px;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    box-shadow: 0px 0px 8px #d9d9d9;
+    -moz-box-shadow: 0px 0px 8px #d9d9d9;
+    -webkit-box-shadow: 0px 0px 8px #d9d9d9;
+}
+.textbox:focus {
+    outline: none;
+    border: 1px solid #7bc1f7;
+    box-shadow: 0px 0px 8px #7bc1f7;
+    -moz-box-shadow: 0px 0px 8px #7bc1f7;
+    -webkit-box-shadow: 0px 0px 8px #7bc1f7;
+}
+.textBoxDisabled{
+    background-color:#efecec;
+    border: 1px solid #c4c4c4;
+    height: 15px;
+    font-size: 12px;
+    padding: 4px 4px 4px 4px;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    box-shadow: 0px 0px 8px #d9d9d9;
+    -moz-box-shadow: 0px 0px 8px #d9d9d9;
+    -webkit-box-shadow: 0px 0px 8px #d9d9d9;
+}
+/*class textbox NUMEROS*/
+.txtboxNumber{
+    text-align:right;
+    border: 1px solid #c4c4c4;
+    height: 15px;
+    font-size: 12px;
+    padding: 4px 4px 4px 4px;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    box-shadow: 0px 0px 8px #d9d9d9;
+    -moz-box-shadow: 0px 0px 8px #d9d9d9;
+    -webkit-box-shadow: 0px 0px 8px #d9d9d9;
+}
+.txtboxNumber:focus{
+     outline: none;
+    border: 1px solid #7bc1f7;
+    box-shadow: 0px 0px 8px #7bc1f7;
+    -moz-box-shadow: 0px 0px 8px #7bc1f7;
+    -webkit-box-shadow: 0px 0px 8px #7bc1f7;
+}
+/*class fieldset*/
+.fieldset{ 
+      border: 2px solid #1F497D;
+      border-radius: 8px;    
+}
+/*class legend*/
+.legend{
+    background:#c4c4c4;
+    color:#1F497D;
+    /*padding: 5px 10px ;*/
+    /*font-weight: bold;*/
+    border-radius: 5px;
+    box-shadow: 0 0 0 2px #1F497D;
+    margin-left: 0px;
+    width:50%; 
+}
+/*class dropDownList*/
+.dropDownList{
+    border: 1px solid #c4c4c4;
+    height: 25px;
+    font-size: 12px;
+    padding: 4px 4px 4px 4px;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    box-shadow: 0px 0px 8px #d9d9d9;
+    -moz-box-shadow: 0px 0px 8px #d9d9d9;
+    -webkit-box-shadow: 0px 0px 8px #d9d9d9;
+}
+/*class treeview*/
+.treeview{
+    color:#1F497D;
+    /*border-bottom: 1px dotted #ff9664 !important;*/
+}
+.treeview div{
+    margin-left: 5px;
+}
+.treeview table{
+    /*border-top: 1px dotted #B2B2B2 !important;*/
+    padding: 2px;
+}
+.treeview div table{
+        border-bottom: none !important;
+        border-top: none !important;
+}
+.treeview table td{
+    padding: 2px 0;
+
+}
+.rootNodeStyle{
+    background:#B6B6B4;
+    padding: 2px;
+    width:100%;
+    border: 1px solid #fff;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+}
+.parentNodeSytle{
+        background:#B6B6B4;  
+        padding: 2px;
+        border: 1px solid #fff;
+        border-radius: 5px;
+        -moz-border-radius: 5px;
+        -webkit-border-radius: 5px;
+        width:100%;
+}
+/*class Gridview report*/
+.gridView{
+            border-collapse: collapse;
+            width:100%;
+}
+.gridView tr th{
+                background-color:#1F497D;
+                color:white;
+                padding: 10px 5px 10px 5px;
+                border: 1px solid #fff;
+                font-family: Calibri, Helvetica, sans-serif;
+                font-size: 12px;
+                font-weight: normal;
+                text-transform:capitalize;
+}
+.gridView tr td{
+                padding: 5px 10px 5px 10px;
+                color:#1F497D; /*color de la letra de las celdas*/
+                font-size: 12px;
+                border: 1px solid #fff;
+                vertical-align: middle;
+}
+.gridView tr td:first-child{
+               text-align: center;
+}
+.gridView tr:hover{
+    background-color:white;
+}
+/*class GridView Citas*/
+.gridViewCita{
+            border-collapse: collapse;
+            width:100%;
+            background-color:#c4c4c4;
+}
+.gridViewCita tr th{
+                background-color:#1F497D;
+                color:white;
+                padding: 10px 5px 10px 5px;
+                border: 1px solid #fff;
+                font-family: Calibri, Helvetica, sans-serif;
+                font-size: 12px;
+                font-weight: normal;
+                text-transform:capitalize;
+}
+.gridViewCita tr td{
+                padding: 5px 10px 5px 10px;
+                color:#1F497D; /*color de la letra de las celdas*/
+                font-size: 12px;
+                border: 1px solid #fff;
+                vertical-align: middle;
+}
+.gridViewCita tr td:first-child{
+               text-align: center;
+}
+.gridViewCita tr:hover{
+    background-color:#e1a447;
+}
+/*class ListBox report*/
+.listBox{
+    border: 1px solid #c4c4c4;
+    font-size: 12px;
+    padding: 4px 4px 4px 4px;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    box-shadow: 0px 0px 8px #d9d9d9;
+    -moz-box-shadow: 0px 0px 8px #d9d9d9;
+    -webkit-box-shadow: 0px 0px 8px #d9d9d9;
+}
+.listBox:focus{
+    outline: none;
+    border: 1px solid #7bc1f7;
+    box-shadow: 0px 0px 8px #7bc1f7;
+    -moz-box-shadow: 0px 0px 8px #7bc1f7;
+    -webkit-box-shadow: 0px 0px 8px #7bc1f7;
+}
+
+
+/*Class label similar a TEXTBOX*/
+.label{
+    border: 1px solid #c4c4c4;
+    height: 15px;
+    background:#fff;/* fondo blanco*/
+    font-size: 12px;
+    padding: 4px 4px 4px 4px;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    box-shadow: 0px 0px 8px #d9d9d9;
+    -moz-box-shadow: 0px 0px 8px #d9d9d9;
+    -webkit-box-shadow: 0px 0px 8px #d9d9d9;
+}
+.btnOpenPopup{
+    font-size: 12px;  /*para ajustar el alto del control con el textbox*/
+    margin-left:-8px;
+    width: 20px;
+    height: 25px;
+    background:url('../Images/btnfind.png') no-repeat;
+    border:1px solid #e1a447;
+    border-radius: 0 3px 3px 0; 
+    -moz-border-radius: 0 3px 3px 0;
+    -webkit-border-radius: 0 3px 3px 0;
+    cursor:pointer;         
+}
+.btnCkeckData{
+     font-size: 12px;  /*para ajustar el alto del control con el textbox*/
+    margin-left:-8px;
+    width: 20px;
+    height: 25px;
+    background:url('../Images/success.png') no-repeat;
+    /*background-image: url(../Images/success.png) ;*/
+    border:1px solid #e1a447;
+    border-radius: 0 3px 3px 0; 
+    -moz-border-radius: 0 3px 3px 0;
+    -webkit-border-radius: 0 3px 3px 0;
+    cursor:pointer;         
+}
+.radioButton{
+    border: 0.125em solid #fff;
+    border-radius:1em;
+    background:#fff;
+}
+.buttonIconEdit{
+    background-image: url(../Images/edit.png);
+    width:20px;
+    height:20px;
+    cursor: pointer;
+    border-radius:5px;
+}
+.buttonIconDelete{
+    background-image: url(../Images/delete.png);
+    width:20px;
+    height:20px;
+    cursor: pointer;
+    border-radius:5px;
+}
+.buttonIconFind{
+    background-image: url(../Images/find.png);
+    width:20px;
+    height:20px;
+    cursor: pointer;
+    border-radius:5px;
+}
+.buttonIconPlus{
+    background-image: url(../Images/plus.png);
+    width:20px;
+    height:20px;
+    cursor: pointer;
+    border-radius:5px;
+}
+.buttonIconOk{
+    background-image: url(../Images/success.png);
+    width:20px;
+    height:20px;
+    cursor: pointer;
+    border-radius:5px;
+}
+.buttonIconRefresh{
+    background-image: url(../Images/refresh.png);
+    width:20px;
+    height:20px;
+    cursor: pointer;
+    border-radius:5px;
+}
+.btnCloseWindow{
+    margin-top:-10px;
+     font-size: 12px;   
+    margin-left:-5px;
+    width: 20px;
+    height: 29px;
+    background:url('../Images/close.png') no-repeat;
+    border:1px solid #e1a447;
+    border-radius: 0 3px 3px 0; 
+    -moz-border-radius: 0 3px 3px 0;
+    -webkit-border-radius: 0 3px 3px 0;
+    cursor:pointer;  
+}
+/*acorddion stilos*/
+.accordionCabecera 
+     { 
+     /*border: 1px solid black;*/ 
+     background-color:#8995a0; 
+     /*font-family:Franklin Gothic Book;*/  
+     font-size: 14px; 
+     font-weight: bold; 
+     padding: 4px; 
+     margin-top: 4px; 
+     cursor: pointer; 
+     color:#1F497D;
+     } 
+.accordionContenido
+    { 
+    /*font-family: Sans-Serif; 
+    background-color: #E2E9F1; 
+    border: 1px solid black; 
+    border-top: none; 
+    font-size: 12px; 
+    padding: 7px;*/   
+    } 
